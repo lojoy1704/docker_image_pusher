@@ -1,1 +1,1 @@
-wcjiang/linux-command:latest
+openjdk:8-jre-alpine
