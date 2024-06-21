@@ -1,1 +1,1 @@
-lojoy1704/linux-command:latest
+wcjiang/linux-command:latest
