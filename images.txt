@@ -1,1 +1,3 @@
 openjdk:8-jre-alpine
+emqx/emqx:5.7
+
